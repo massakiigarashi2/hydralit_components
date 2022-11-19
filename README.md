@@ -1,6 +1,8 @@
 # **Hydralit Components** <img src="https://github.com/TangleSpace/hydralit/raw/main/docs/images/hydra.png" alt="hydra" width="50"/>
 A package of Streamlit components that can be used directly or with the [Hydralit](https://github.com/TangleSpace/hydralit) library.
 
+- [hydralit-components 1.0.10 Website](https://pypi.org/project/hydralit-components/)
+
 ## **Current Components**
  - ### **Navbar**
  - ### **Option Bar**
